@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+world!+I'm+Adriely+Lopes&center=true&width=500&height=45&color=000000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+world!+I'm+Adriely+Lopes&center=true&width=500&height=45&color=ffffff">
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,postman,git,github,postgres,vscode,figma&perline=11&size=32" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,postman,git,github,postgres,vscode,figma&perline=11&size=24" />
 </p>
 
 <p align="center">
