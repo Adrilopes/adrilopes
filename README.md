@@ -37,7 +37,10 @@
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,postman,git,github,postgres,vscode,figma&perline=11&size=24" />
+  <img src="https://skillicons.dev/icons?i=js,react,typescript,nodejs,html,css&perline=6&size=24" />
+  <br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,postgres,vscode,figma,postman&perline=6&size=24" />
 </p>
 
 <p align="center">
