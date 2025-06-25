@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+world!+I'm+Adriely+Lopes&center=true&width=500&height=45&color=ffffff">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+world!+I'm+Adriely+Lopes&center=true&width=500&height=45&color=2F80ED">
 </p>
 
 <p align="center">
